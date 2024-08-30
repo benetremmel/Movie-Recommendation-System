@@ -37,7 +37,7 @@ This includes the Master Notebooks from both parts of the project.
 jupyter notebook
 ```
 
-2. Run the notebooks `Part1_Master_Notebook.ipynb` and `Part1_Master_Notebook.ipynb` to see the implementation and results of the project.
+2. Run the notebooks `Part1_Master_Notebook.ipynb` and `Part2_Master_Notebook.ipynb` to see the implementation and results of the project.
 
 ## About
 Students that developed this project:
