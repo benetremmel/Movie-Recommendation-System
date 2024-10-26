@@ -41,8 +41,8 @@ jupyter notebook
 
 ## About
 Students that developed this project:
+- Benedikt Tremmel
 - Gilian Wagner
 - Leonardo Heinemann
 - Malte Haupt
 - Maximilian Schön
-- Benedikt Tremmel
