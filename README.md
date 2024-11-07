@@ -9,9 +9,8 @@ The project was divided into two parts: using traditional Machine Learning techn
 
 [![Content-Based Models Overview](https://github.com/benetremmel/Movie-Recommendation-System/blob/main/Evaluation%20Metrics%20Visualization/Content_Based_Models_Overview.png)](https://github.com/benetremmel/Movie-Recommendation-System/blob/main/Evaluation%20Metrics%20Visualization/Content_Based_Models_Overview.png)
 
-[!Collaborative Filtering Models Overview](https://github.com/benetremmel/Movie-Recommendation-System/blob/main/Evaluation%20Metrics%20Visualization/Collaborative_Filtering_Models_Overview.png)
+[![Collaborative Filtering Models Overview](https://github.com/benetremmel/Movie-Recommendation-System/blob/main/Evaluation%20Metrics%20Visualization/Collaborative_Filtering_Models_Overview.png)](https://github.com/benetremmel/Movie-Recommendation-System/blob/main/Evaluation%20Metrics%20Visualization/Collaborative_Filtering_Models_Overview.png)
 
-Evaluation Metrics Visualization/Collaborative_Filtering_Models_Overview.png
 
 ## Repository Structure
 **data:**
