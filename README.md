@@ -5,12 +5,12 @@ In our Master's degree "Business Analytics" at Nova School of Business and Econo
 
 The project was divided into two parts: using traditional Machine Learning techniques in the first part and improving our recommendation system with Deep Learning techniques in the second part. After trying several models, we combined Content-Based as well as Collaborative Filtering techniques to maximize the relevance of our movie suggestions:
 - Content-Based Recommender Systems allow for immediate personalization as we do not require ratings to start generating movie recommendations. This makes them very robust and allows for mitigation of the cold start problem. In the end, we combined **Word2Vec text embeddings with BERT-based sentiment analysis** which achieved a **precision of 80.74%**, meaning that in 10 suggested movies, at least 8 are relevant for the respective user.
-[![Content-Based Models Overview](https://github.com/benetremmel/Movie-Recommendation-System/blob/main/Evaluation%20Metrics%20Visualization/Content_Based_Models_Overview.png)](https://github.com/benetremmel/Movie-Recommendation-System/blob/main/Evaluation%20Metrics%20Visualization/Content_Based_Models_Overview.png)  
-*Full evaluation comparison of content-based models can be seen above.*
+*Full evaluation comparison of content-based models can be seen below.*  
+[![Content-Based Models Overview](https://github.com/benetremmel/Movie-Recommendation-System/blob/main/Evaluation%20Metrics%20Visualization/Content_Based_Models_Overview.png)](https://github.com/benetremmel/Movie-Recommendation-System/blob/main/Evaluation%20Metrics%20Visualization/Content_Based_Models_Overview.png)
 
 - On top of that, a Collaborative Filtering model leverages user behavior and interactions to suggest movies that similar users have liked, enhancing personalization and relevance. Here, we are using a **Neural Collaborative Filtering (NCF)** model which combines Generalized Matrix Factorization and Multi Layer Perceptron to learn highly complex user-item interactions. This model achieved a **precision of 98.39%** and an **RMSE of 1.05** (on a rating scale of 0.5 to 5).
+*Full evaluation comparison of collaborative filtering models can be seen below.*
 [![Collaborative Filtering Models Overview](https://github.com/benetremmel/Movie-Recommendation-System/blob/main/Evaluation%20Metrics%20Visualization/Collaborative_Filtering_Models_Overview.png)](https://github.com/benetremmel/Movie-Recommendation-System/blob/main/Evaluation%20Metrics%20Visualization/Collaborative_Filtering_Models_Overview.png)  
-*Full evaluation comparison of collaborative filtering models can be seen above.*
 
 
 ## Repository Structure
